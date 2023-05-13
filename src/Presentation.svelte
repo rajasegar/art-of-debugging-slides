@@ -1,28 +1,24 @@
 <script>
     import Title          from './slides/Title.svelte';
-    import Love           from './slides/Love.svelte';
-    import GettingStarted from './slides/GettingStarted.svelte';
-    import AutoAnimate from './slides/examples/AutoAnimate.svelte';
-    import Backgrounds from './slides/examples/Backgrounds.svelte';
-    import Barebones from './slides/examples/Barebones.svelte';
-    import LayoutHelpers from './slides/examples/LayoutHelpers.svelte';
-    import Markdown from './slides/examples/Markdown.svelte';
-    import Math from './slides/examples/Math.svelte';
-    import Media from './slides/examples/Media.svelte';
-    import Transitions from './slides/examples/Transitions.svelte';
+ import UnderstandTheSys from './slides/Understand-the-System.svelte'
+ import MakeitFail from './slides/Make-it-Fail.svelte';
+ import QuitThinking from './slides/Quit-Thinking.svelte';
+ import DivideandConquer from './slides/Divide-and-Conquer.svelte';
+ import ChangeoneThing from './slides/Change-one-Thing.svelte';
+ import KeepanAuditTrail from './slides/Keep-an-Audit-Trail.svelte';
+ import CheckthePlug from './slides/Check-the-Plug.svelte';
+ import GetaFreshView from './slides/Get-a-Fresh-View.svelte';
+ import Ifyoudidntfix from './slides/If-you-didnt-fix.svelte';
 
-    const partner = ['Svelte', 'Reveal.js'];
 </script>
 
 <Title/>
-<Love {partner}/>
-<GettingStarted/>
-<AutoAnimate/>
-<Backgrounds/>
-<Barebones/>
-<LayoutHelpers/>
-<Markdown/>
-<Math/>
-<Media/>
-<Transitions/>
-
+<UnderstandTheSys/>
+<MakeitFail/>
+<QuitThinking/>
+<DivideandConquer/>
+<ChangeoneThing/>
+<KeepanAuditTrail/>
+<CheckthePlug/>
+<GetaFreshView/>
+<Ifyoudidntfix/>
