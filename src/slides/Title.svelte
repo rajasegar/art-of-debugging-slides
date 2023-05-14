@@ -4,6 +4,6 @@
 </script>
 
 <Slide>
-  <h1>The Art of Debugging</h1>
-  <h2>Rajasegar</h2>
+  <h1>The Golden Rules of Debugging</h1>
+  <h4>Rajasegar</h4>
 </Slide>
