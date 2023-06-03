@@ -18,6 +18,12 @@
 </Slide>
 <Slide>
   <h2>Read the manual</h2>
+  <aside class="notes">
+    You need a working knowledge of what the system is supposed to do,
+    how it's designed and in some cases, why it was designed that way.
+    If you don't understand some part of the system , that always seems to
+    be where the problem is.
+  </aside>
 </Slide>
 
 <Slide>
@@ -31,8 +37,25 @@
 </Slide>
 <Slide>
   <h2>Understand your tools</h2>
+  <ul>
+    <li>Eyes and ears</li>
+    <li>Right tool</li>
+    <li>Use it correctly</li>
+    <li>Interpret</li>
+    <li>Limitations</li>
+  </ul>
+  <aside class="notes">
+    Your debugging tools are your eyes and ears into the system:
+    you have to be able to choose the right tool
+    use the tool correctly
+    and intepret the results you get properly
+    You also have to know the limitations of your tools
+  </aside>
 </Slide>
 <Slide>
   <h2>Look up the details</h2>
+  <aside class="notes">
+    Don't waste your debugging time looking at the wrong stuff
+  </aside>
 </Slide>
 </Slide>
