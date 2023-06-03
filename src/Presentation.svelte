@@ -9,6 +9,7 @@
  import CheckthePlug from './slides/Check-the-Plug.svelte';
  import GetaFreshView from './slides/Get-a-Fresh-View.svelte';
  import Ifyoudidntfix from './slides/If-you-didnt-fix.svelte';
+ import Recap from './slides/Recap.svelte';
 
 </script>
 
@@ -22,3 +23,4 @@
 <CheckthePlug/>
 <GetaFreshView/>
 <Ifyoudidntfix/>
+<Recap/>

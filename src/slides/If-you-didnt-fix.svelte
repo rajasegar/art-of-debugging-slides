@@ -1,10 +1,22 @@
 <script>
  import Slide from '../lib/Slide.svelte';
+ import Image from '../lib/Image.svelte';
 </script>
 
 <Slide>
 <Slide>
+    <h1>#9</h1>
   <h2>If you didn't fix, it ain't fixed</h2>
+  <Image src="assets/i-didnt-do-anything-hayden.gif" alt="If you didn't" />
+  <aside class="notes">
+      Check the program yourself, have someone else check it for you,
+      or walk through it with someone else.
+      Run the same triangulation test cases you used to diagnose the problem
+      to make sure that all aspects of the problem have been resolved.
+      If you’ve solved only part of the problem, you’ll find out that you still have work to do.
+      Rerun the whole program to check for side effects of your changes.
+      The easiest and most effective way to check for side effects is to run the test suite.
+  </aside>
 </Slide>
 <Slide>
   <h3>Check that it's really fixed</h3>

@@ -1,10 +1,13 @@
 <script>
  import Slide from '../lib/Slide.svelte';
+ import Image from '../lib/Image.svelte';
 </script>
 
 <Slide>
 <Slide>
+    <h1>#4</h1>
   <h2>Divide and Conquer</h2>
+  <Image src="assets/divideandconquer.png" alt="Divide and Conquer" />
 </Slide>
 <Slide>
   <h3>Narrow the search with successive approximation</h3>
