@@ -41,9 +41,15 @@
   </Slide>
   <Slide>
     <h3>Stimulate the failure</h3>
+    <ul>
+      <li>Failure sequence requires a lot of manual steps &rarr; Automate the process</li>
+    </ul>
   </Slide>
   <Slide>
     <h3>But don't simulate the failure</h3>
+    <p>Stimulating vs Simulating the failure</p>
+    <p>Simulating the conditions that stimulate the failure &rarr; OK</p>
+    <p>Try to avoid simulating the failure mechanism</p>
   </Slide>
   <Slide>
     <h3>Find the uncontrolled condition that makes it intermittent </h3>

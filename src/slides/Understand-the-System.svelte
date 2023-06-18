@@ -52,19 +52,33 @@
     </ul>
   </Slide>
   <Slide>
-    <h2>Know the fundamentals</h2>
-  </Slide>
-  <Slide>
     <h2>Know what's reasonable</h2>
+    <ul>
+      <li>Know how the system would normally work</li>
+      <li>Knowledge of what's normal</li>
+      <li>Lack of fundamental understanding</li>
+    </ul>
+    <aside class="notes">
+      When you are looking around in a system, you have to know how the system would normally work
+      Knowledge of what's normal helps you notice things thar aren't
+      Lack of fundamental understanding explains why so many people have trouble figuring out what's wrong
+    </aside>
   </Slide>
   <Slide>
     <h2>Know the road map</h2>
     <p>Constituent elements</p>
     <ul>
+      <li>Lay of the land</li>
       <li>Moving parts</li>
-      <li>Black boxes</li>
+      <li>Parts of the system - Black boxes</li>
     </ul>
-    <aside class="notes">Knowledge about the constituent elements of the system can bring in new insights</aside>
+    <aside class="notes">
+      Knowledge of the constituent elements of a system can also give us important insights into the structure of that system
+      When you are trying to navigate to where a bug is hiding, you have to know the lay of the land
+      When there are parts of the system that are "black boxes", meaning that you don't know what's 
+      inside them, knowing how they're supposed to interact with other parts allows you to at least
+      locate the problem as being inside the box or outside the box.
+    </aside>
   </Slide>
   <Slide>
     <h2>Understand your tools</h2>
@@ -85,6 +99,18 @@
   </Slide>
   <Slide>
     <h2>Look up the details</h2>
+    <div class="flex gap-2">
+      <section>
+        <Image height="200" src="assets/einstein.avif" alt="Understand the system" />
+        <blockquote>Never memorize something that you can look up</blockquote>
+      </section>
+      <section>
+    <ul>
+      <li class="fragment">Don't guess, Look it up</li>
+      <li class="fragment">Detailed info has been written down somewhere</li>
+      <li class="fragment">Don't trust your memory</li>
+    </ul>
+          </section>
     <aside class="notes">
       Don't waste your debugging time looking at the wrong stuff
     </aside>
