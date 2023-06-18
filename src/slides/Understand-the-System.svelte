@@ -4,10 +4,20 @@
 </script>
 
 <Slide>
-  <Slide bgImage="assets/erda-estremera-eMX1aIAp9Nw-unsplash.jpg" bgPosition="bottom 100px">
-      <h1>#1</h1>
-  <h2>Understand the system</h2>
+  <Slide>
+  <h2>#1 Understand the system</h2>
+    <div class="flex gap-4">
+      <div>
   <Image src="assets/understand-the-system.jpg" alt="Understand the system" />
+        </div>
+        <div>
+        <ul>
+          <li class="fragment">Fix problems without really understanding</li>
+          <li class="fragment">Make sure you understand the system to the core</li>
+          <li class="fragment">Triangulate defect with both cases</li>
+          </ul>
+        </div>
+      </div>
   <aside class="notes">
       The best way to make your life difficult and damage the quality of your program is to fix problems without really understanding them.
       Before you fix a problem, make sure you understand the system to the core.
@@ -18,6 +28,11 @@
 </Slide>
 <Slide>
   <h2>Read the manual</h2>
+    <ul>
+      <li>Need a working knowledge</li>
+      <li>How it's designed?</li>
+      <li>Why it was designed that way</li>
+      </ul>
   <aside class="notes">
     You need a working knowledge of what the system is supposed to do,
     how it's designed and in some cases, why it was designed that way.
@@ -38,10 +53,10 @@
 <Slide>
   <h2>Understand your tools</h2>
   <ul>
-    <li>Eyes and ears</li>
+    <li>Debugging tools &rarr; Eyes and ears</li>
     <li>Right tool</li>
     <li>Use it correctly</li>
-    <li>Interpret</li>
+    <li>Interpret the results properly</li>
     <li>Limitations</li>
   </ul>
   <aside class="notes">

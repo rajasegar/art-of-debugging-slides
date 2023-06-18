@@ -5,8 +5,7 @@
 
 <Slide>
 <Slide>
-    <h1>#7</h1>
-  <h2>Check the Plug</h2>
+  <h2>#7: Check the Plug</h2>
   <Image src="assets/check-the-plug.jpg" alt="Check the plug" />
 </Slide>
 <Slide>

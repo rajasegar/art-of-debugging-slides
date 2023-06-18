@@ -5,8 +5,7 @@
 
 <Slide>
 <Slide>
-    <h1>#9</h1>
-  <h2>If you didn't fix, it ain't fixed</h2>
+  <h2>#9: If you didn't fix, it ain't fixed</h2>
   <Image src="assets/i-didnt-do-anything-hayden.gif" alt="If you didn't" />
   <aside class="notes">
       Check the program yourself, have someone else check it for you,

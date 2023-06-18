@@ -5,8 +5,7 @@
 
 <Slide>
 <Slide>
-    <h1>#8</h1>
-  <h2>Get a Fresh View</h2>
+  <h2>#8: Get a Fresh View</h2>
   <Image src="assets/looking-good-looking-fresh.gif" alt="Get a Fresh view" />
   <p>Take a break from the problem</p>
   <aside class="notes">

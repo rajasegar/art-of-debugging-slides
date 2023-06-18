@@ -13,15 +13,15 @@
     <p class="text-right">-- Steve McConnel, Code Complete</p>
 </Slide>
 <Slide>
-    <h1>Actually</h1>
-    <h2>It's an opportunity</h2>
+    <h2>Actually, it's an</h2>
+    <h1>opportunity</h1>
 </Slide>
 <Slide>
     <h3>An opportunity to learn about:</h3>
     <ul>
-        <li>the program you’re working on</li>
-        <li>the kinds of mistakes you make</li>
-        <li>the quality of your code from the point of view of someone who has to read</li>
+        <li>program you’re working on</li>
+        <li>kinds of mistakes you make</li>
+        <li>quality of your code from the readability perspective</li>
         <li>how you solve problems</li>
         <li>how you fix defects</li>
     </ul>
