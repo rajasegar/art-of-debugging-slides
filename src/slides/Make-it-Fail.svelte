@@ -47,23 +47,76 @@
   </Slide>
   <Slide>
     <h3>But don't simulate the failure</h3>
-    <p>Stimulating vs Simulating the failure</p>
-    <p>Simulating the conditions that stimulate the failure &rarr; OK</p>
+    <p class="text-yellow-500">Stimulating vs Simulating</p>
+    <p>Simulating the conditions  &rarr; OK</p>
     <p>Try to avoid simulating the failure mechanism</p>
   </Slide>
   <Slide>
     <h3>Find the uncontrolled condition that makes it intermittent </h3>
   </Slide>
+    <Slide>
+    <h3>3 reasons to make it fail:</h3>
+    <p>So you can</p>
+    <ol>
+      <li>Look at it</li>
+      <li>Get a clue about the cause</li>
+      <li>Tell when it's fixed</li>
+    </ol>
+  </Slide>
   <Slide>
     <h3>Record everything and find the signature of intermittent bugs</h3>
+    <ul>
+      <li>Look at it each time it fails</li>
+      <li>Ignore other times</li>
+      <li>Capture info on every run</li>
+      <li>Compare a bad run with a good one</li>
+    </ul>
+      <aside class="notes">
+      You have to able to look at the failure
+      If it doesn't happen every time, you have to look at it each time if fails,
+      while ignoring the many time it doesn't fail
+      The key is to capture info on every run so you can look at if after you know that it is failed.
+      By looking at captured information, you can easily compare a bad run with a good one
+    </aside>
   </Slide>
   <Slide>
     <h3>Don't trust statistics too much</h3>
+    <ul>
+      <li>Coincidences</li>
+      <li>Direct Effect</li>
+      <li>Random factors</li>
+      <li>Chances of figuring out &rarr; pretty slim</li>
+    </ul>
+    <aside class="notes">
+      A lot of time,s coincidences will make you think that one condition makes
+      the problem more likely to happen than some other condition
+      Don't waste a lot of time barking up the wrong tree.
+      But if they don't have a direct effect, the connection will be hidden by
+      other random factors, and your chances of figuring it out by looking at
+      those differences are pretty slim
+
+    </aside>
   </Slide>
   <Slide>
     <h3>Know that "that" can happen</h3>
+    <aside class="notes">
+      Don't waste a single neuron on the train of thought that begins "but that can't happen" becuase 
+      quite clearly it can and has
+    </aside>
   </Slide>
   <Slide>
     <h3>Never throw away a debugging tool</h3>
+    <ul>
+      <li>Reused in other debugging situations</li>
+      <li class="fragment">Good engg techniques</li>
+      <li class="fragment">Documentation</li>
+    </ul>
+    <aside class="notes">
+      Sometimes a test tool can be reused in other debugging situations.
+      Think about this when you design it, and make it maintainable and upgradeable
+      This means using good engg techniques, documentation, etc.
+      A tool can be useful in ways that you never would have imagined.
+
+    </aside>
   </Slide>
 </Slide>

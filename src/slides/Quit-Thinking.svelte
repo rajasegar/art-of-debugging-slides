@@ -82,8 +82,21 @@
   </Slide>
   <Slide>
     <h3>Watch out for Heisenberg</h3>
+    <p>You just can't get an accurate measurement, because your probes are part of the system</p>
+    <p>Your test instrumentation affects the system under test</p>
   </Slide>
   <Slide>
     <h3>Guess only to focus the search</h3>
+    <ul>
+      <li>Guessing &rarr; pretty good thing</li>
+      <li>Guesses &rarr; pretty close</li>
+      <li>Still have to confirm that your guess is correct</li>
+    </ul>
+      <aside class="notes">
+      Guessing is a pretty good thing, especially if you understand the system. 
+      Your guesses may even be pretty close, but you should guess only to focust the search.
+      You still have to confirm that your guess is correct by seeing the failure before you go 
+      about trying to fix the failure
+    </aside>
   </Slide>
 </Slide>
