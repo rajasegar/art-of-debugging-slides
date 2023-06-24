@@ -49,8 +49,30 @@
 </Slide>
 <Slide>
   <h3>Fix the bugs you know about</h3>
+    <ul>
+      <li>Hard to believe - More than one bug in a system</li>
+      <li>Hard to isolate</li>
+      <li>Several simultaneous problems - fix it right away</li>
+      <li>Fix something you know wrong &rarr; clean look at the other issues</li>
+    </ul>
+      <aside class="notes">
+      Sometimes, as hard as it might be to believe, there's more than one bug in a system
+      This makes it harder to isolate each bug using "Divide and Conquer"
+      So when you do figure out one of several simultaneous problems, fix it right away,
+      before you look for the others.
+      If you fix something thatt  you know is wrong, you get a clean look at the other issues
+    </aside>
 </Slide>
 <Slide>
   <h3>Fix the noise first</h3>
+    <ul>
+      <li class="fragment">Other problems - often very unpredictable - go away when fix the noise</li>
+      <li class="fragment">if noise is the issue</li>
+      <li class="fragment">Weigh the difficulty of fixing the problem against the likelihood</li>
+      <li class="fragment">Easy to become perfectionist</li>
+    </ul>
+      <p class="text-yellow-500 fragment">Don't get carried away</p>
+      <aside class="notes">
+    </aside>
 </Slide>
 </Slide>

@@ -14,8 +14,8 @@
         <p class="text-right">-- Steve McConnel, Code Complete</p>
     </Slide>
     <Slide>
-        <h2>Actually, it's an</h2>
-        <h1>opportunity</h1>
+        <h3>Actually, it's an</h3>
+        <h1 class="text-yellow-500">opportunity</h1>
     </Slide>
     <Slide>
         <h3>An opportunity to learn about:</h3>

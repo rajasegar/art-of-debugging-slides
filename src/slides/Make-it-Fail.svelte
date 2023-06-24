@@ -108,15 +108,14 @@
     <h3>Never throw away a debugging tool</h3>
     <ul>
       <li>Reused in other debugging situations</li>
-      <li class="fragment">Good engg techniques</li>
-      <li class="fragment">Documentation</li>
+      <li>Good engg techniques</li>
+      <li>Documentation</li>
     </ul>
     <aside class="notes">
       Sometimes a test tool can be reused in other debugging situations.
       Think about this when you design it, and make it maintainable and upgradeable
       This means using good engg techniques, documentation, etc.
       A tool can be useful in ways that you never would have imagined.
-
     </aside>
   </Slide>
 </Slide>
