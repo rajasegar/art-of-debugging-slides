@@ -5,9 +5,20 @@
 
 <Slide>
 <Slide>
-    <h1>#5</h1>
-  <h2>Change one thing at a time</h2>
+  <h3>#5: Change one thing at a time</h3>
+    <div class="flex gap-4">
+      <section>
   <Image src="assets/one-thing-at-time.jpg" alt="Change one thing at a time" />
+      </section>
+      <section>
+        <ul>
+          <li class="fragment">Tricky enough when done one at a time</li>
+          <li class="fragment">When done 2 at a time, subtle errors look like original errors</li>
+          <li class="fragment">Awkward position</li>
+        </ul>
+      </section>
+      </div>
+      <p class="fragment"><span class="font-bold text-yellow-500">Keep it simple:</span> Change one thing at a time</p>
   <aside class="notes">
       Changes are tricky enough when they’re done one at a time.
       When done two at a time, they can introduce subtle errors that look like the original errors.

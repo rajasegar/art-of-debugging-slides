@@ -5,8 +5,7 @@
 
 <Slide>
 <Slide>
-    <h1>#6</h1>
-  <h2>Keep an Audit Trail</h2>
+  <h2>#6: Keep an Audit Trail</h2>
   <Image src="assets/audit-trail.jpg" alt="Keep an Audit Trail" />
 </Slide>
 
