@@ -27,10 +27,10 @@
 
 <Slide>
   <h3>Start at the beginning</h3>
-  <p>Bugs can depend on a complex state of machine</p>
+  <p>Bugs can depend on a complex state of application</p>
   <aside class="notes">
-    Because bugs can depend on a complex state of machine,
-    you have to be careful to note the state of the machine going into your sequence
+    Because bugs can depend on a complex state of application,
+    you have to be careful to note the state of the application going into your sequence
     Try to start the sequence from a known state
   </aside>
 </Slide>

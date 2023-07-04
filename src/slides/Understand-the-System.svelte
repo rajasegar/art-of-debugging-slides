@@ -18,6 +18,11 @@
 </Slide>
 <Slide>
   <h2>Read the manual</h2>
+    <ul>
+      <li>Working knowledge</li>
+      <li>How it's designed?</li>
+      <li>Why it was designed?</li>
+      </ul>
   <aside class="notes">
     You need a working knowledge of what the system is supposed to do,
     how it's designed and in some cases, why it was designed that way.

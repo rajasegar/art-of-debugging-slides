@@ -11,7 +11,9 @@
 </Slide>
 
 <Slide>
-  <h3>Write down what you did, in what order, and what happened as a result</h3>
+  <h3>Write down what you did, <br>
+      in what order,<br>
+      and what happened as a result</h3>
 </Slide>
 <Slide>
   <h3>Understand that any detail could be the important one</h3>
