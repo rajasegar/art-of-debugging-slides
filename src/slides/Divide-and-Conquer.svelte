@@ -28,7 +28,7 @@
 <Slide>
   <h3>Determine which side of the bug you are on</h3>
     <p>Good &rarr; Bad</p>
-    <p>You have to know</p>
+    <p class="text-left">You have to know</p>
     <ul>
       <li>your search range</li>
       <li>at one end things are good and at the other, things are bad</li>
@@ -37,7 +37,7 @@
 </Slide>
 <Slide>
   <h3>Use easy-to-spot test patterns</h3>
-    <p>What do you do when</p>
+    <p class="text-left">What do you do when</p>
     <ul>
       <li>effect of the bug is more <span class="text-yellow-500">subtle</span></li>
       <li>data is already so <span class="text-yellow-500">random looking</span></li>

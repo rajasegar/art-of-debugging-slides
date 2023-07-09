@@ -19,17 +19,27 @@
 </Slide>
 <Slide>
   <h3>Check that it's really fixed</h3>
+  <ul>
+  <li>Don't assume that the fix works</li>
+  <li>Test it!</li>
+  <li>You can't be sure until you test it</li>
+  </ul>
 </Slide>
 <Slide>
   <h3>Check that it's really your fix that fixed it</h3>
+  <p>Fixed &rarr; Broken &rarr; Fixed</p>
 </Slide>
 <Slide>
   <h3>Know that it never just goes away by itself</h3>
+  <p>It never just goes away by itself</p>
 </Slide>
 <Slide>
   <h3>Fix the cause</h3>
+  <p>Don't assume that it broke for no reason</p>
 </Slide>
 <Slide>
   <h3>Fix the process</h3>
+  <p>Hard to spot &rarr; Line between fixing a system and the process</p>
+  <p>Go after the underlying conditions that created the failure</p>
 </Slide>
 </Slide>

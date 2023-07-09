@@ -30,36 +30,7 @@
     </aside>
   </Slide>
 
-<Slide>
-  <h3>Start at the beginning</h3>
-  <p>Bugs can depend on a complex state of application</p>
-  <aside class="notes">
-    Because bugs can depend on a complex state of application,
-    you have to be careful to note the state of the application going into your sequence
-    Try to start the sequence from a known state
-  </aside>
-</Slide>
-<Slide>
-  <h3>Stimulate the failure</h3>
-</Slide>
-<Slide>
-  <h3>But don't simulate the failure</h3>
-</Slide>
-<Slide>
-  <h3>Find the uncontrolled condition that makes it intermittent </h3>
-</Slide>
-<Slide>
-  <h3>Record everything and find the signature of intermittent bugs</h3>
-</Slide>
-<Slide>
-  <h3>Don't trust statistics too much</h3>
-</Slide>
-<Slide>
-  <h3>Know that "that" can happen</h3>
-</Slide>
-<Slide>
-  <h3>Never throw away a debugging tool</h3>
-</Slide>
+
   <Slide>
     <h3>Start at the beginning</h3>
     <p>Bugs can depend on a complex state of the application</p>
@@ -148,5 +119,4 @@
       A tool can be useful in ways that you never would have imagined.
     </aside>
   </Slide>
->>>>>>> 303873accd3084cf41027a145beb2f5f55b62b99
 </Slide>

@@ -25,5 +25,11 @@
 </Slide>
 <Slide>
   <h3>Write it down</h3>
+  <p>"The Shortest Pencil is Longer than the Longest Memory"
+  <ul>
+  <li>Never trust your memory with a detail</li>
+  <li>You will forget the details</li>
+  <li>Write down your theories and your fixes</li>
+  </ul>
 </Slide>
 </Slide>
