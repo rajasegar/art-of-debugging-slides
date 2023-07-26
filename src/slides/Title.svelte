@@ -1,7 +1,6 @@
 <script>
-    import { onMount } from 'svelte';
-    import Slide from '../lib/Slide.svelte';
-  import Image from '../lib/Image.svelte';
+import Slide from '../lib/Slide.svelte';
+import Image from '../lib/Image.svelte';
 </script>
 
 <Slide>
@@ -12,6 +11,21 @@
     <Slide>
         <p><span class="text-7xl">"</span>Debugging is the process of identifying the root cause of an error and correcting it.</p>
         <p class="text-right">-- Steve McConnel, Code Complete</p>
+    </Slide>
+    <Slide>
+    <h3 class="text-yellow-500">Psychology of Debugging:</h3>
+      <ul>
+    <li>Sensitive, emotional subject</li>
+    <li>Instead of attacking it as a puzzle</li>
+    <li>Denial, Finger-pointing, lame excuses or just plain apathy</li>
+    </ul>
+    <p>Debugging is just   <span class="text-yellow-400">problem solving</span></p>
+    <aside class="notes">
+    Debugging itself is a sensitive, emotional subject for many developers. Instead of attacking
+it as a puzzle to be solved, you may encounter denial, finger pointing, lame excuses, or just
+plain apathy.
+Embrace the fact that debugging is just problem solving, and attack it as such.
+    </aside>
     </Slide>
     <Slide>
         <h3>Actually, it's an</h3>
@@ -35,10 +49,16 @@
             <li class="fragment">Tune out any project pressures</li>
             <li class="fragment">Get comfortable</li>
         </ul>
+        <aside class="notes">
+        Before you start debugging, it's important to adopt the right mindset. You need to turn off
+many of the defenses you use each day to protect your ego, tune out any project
+pressures you may be under, and get yourself comfortable. Above all, remember the first
+rule of debugging:
+        </aside>
     </Slide>
         <Slide>
         <h3>The First Rule of debugging</h3>
         <Image src="/assets/The-first-rule-of-Fight-Club-is.jpg" alt="the first rule"/>
-        <h1>Don't Panic</h1>
+        <h1 class="fragment">Don't Panic</h1>
     </Slide>
 </Slide>

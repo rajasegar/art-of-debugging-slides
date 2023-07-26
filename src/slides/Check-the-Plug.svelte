@@ -6,15 +6,13 @@
 <Slide>
 <Slide>
   <h2>#7: Check the Plug</h2>
-    <div class="flex gap-2">
       <section>
   <Image src="assets/check-the-plug.jpg" alt="Check the plug" />
       </section>
         <section>
           <span class="font-bold text-yellow-500">"There is nothing more deceptive than an obvious fact</span>
-          <br/>-- Sherlock Holmes, THE BOSCOME VALLEY MYSTERY
+          <br/><span class="text-sm">-- Sherlock Holmes, THE BOSCOME VALLEY MYSTERY</span>
       </section>
-      </div>
 </Slide>
 <Slide>
   <h3>Question your assumptions</h3>

@@ -33,9 +33,6 @@
   <h3>Isolate the key factor</h3>
 </Slide>
 <Slide>
-  <h3>Grab the brass bar with both hands</h3>
-</Slide>
-<Slide>
   <h3>Change one test at a time</h3>
 </Slide>
 <Slide>
